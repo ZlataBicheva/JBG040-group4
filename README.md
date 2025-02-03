@@ -11,7 +11,8 @@ Feel free to create new files to explore the data or experiment with other ideas
   - Log in to Canvas, go to course JBG040 (2024-3) Data Challenge 1.
   - Go to the Files page. 
   - Download the four files `X_test.npy`, `X_train.npy`, `Y_test.npy` and `Y_train.npy`.
-  - Move the files to the directory `dc1\data\`.
+  - Create a folder called `data` in `dc1\`.
+  - Move the files to the created folder `dc1\data\`.
   - You will only have to do this once usually, at the beginning of your project.
 
 - To run the whole training/evaluation pipeline: run `main.py`. **As the interpreter, select Python 3.11, as some packages are incompatible with newer Python versions.**
